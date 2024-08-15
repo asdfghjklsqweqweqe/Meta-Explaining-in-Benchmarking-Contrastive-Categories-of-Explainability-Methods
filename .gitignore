@@ -1,0 +1,11 @@
+File Train and Test Indexes on Graph Classification/Experimental Results/callgraph.p
+Train and Test Indexes on Graph Classification/Experimental Results/CallGraph/CallGraph_dataset_27_dimensions.pkl
+Train and Test Indexes on Graph Classification/Experimental Results/CallGraph/preprocessing/malware_graphs.p
+Train and Test Indexes on Graph Classification/Experimental Results/CIFAR10/cifar10_val_dataset.pkl
+General Information of DATASETs/Datasets/processed/data.pt
+Train and Test Indexes on Graph Classification/Experimental Results/CallGraph/callgraph_train_dataset_27_dimensions.pkl
+Train and Test Indexes on Graph Classification/Experimental Results/callgraph.p
+**/*.pt
+**/*.pkl
+**/*.p
+**/*.csv

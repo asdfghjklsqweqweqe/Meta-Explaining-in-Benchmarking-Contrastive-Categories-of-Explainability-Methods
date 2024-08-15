@@ -1,0 +1,1 @@
+{"files":[{"id":"8af843a7-47ae-43be-87b5-58eca84f6da5","name":"appsscript","type":"json","source":"{\n  \"timeZone\": \"Europe/Berlin\",\n  \"dependencies\": {\n  },\n  \"exceptionLogging\": \"STACKDRIVER\",\n  \"runtimeVersion\": \"V8\"\n}"}]}
